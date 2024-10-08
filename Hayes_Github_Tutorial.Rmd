@@ -1,0 +1,64 @@
+---
+title: "Sublime Git Tutorial"
+author: "rebecca hayes"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Using Sublime Merge for GitHub  
+
+
+
+1. Download Sublime Merge for Windows or Mac OS  
+
+Mac installation https://www.sublimemerge.com/download_thanks?target=mac
+
+Windows installation https://www.sublimemerge.com/download_thanks?target=win-x64
+
+
+2. Clone repository
+Sign into GitHub
+Add SHA id from your personal laptop?
+Link
+
+3. Open text file (.txt) and type your answers to the following questions:
+
+4. Save as 'Firstname_LastInitial.txt' and add commit message (conventional commits)
+https://gist.github.com/Zekfad/f51cb06ac76e2457f11c80ed705c95a3
+
+5. Push and pair up! 
+
+6. Pull from the remote to your local. Open your partner's document. Change question 2. 
+
+7. Push to remote! 
+
+8. Notice the arrows in sublime merge.
+
+9. Dealing with merge conflicts.
+
+10. Where to learn more:
+
+
+
+
+
+
+
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
