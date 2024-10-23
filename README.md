@@ -4,3 +4,4 @@
 
 - Rebecca Hayes, with an easy Polish recipe for [Haluski](haluski.txt) 
 
+- Alejandro Santillana, with a recipe for [Flan](flan.txt)
