@@ -1,2 +1,6 @@
-# github-sublime-tutorial
-Tutorial on using GitHub collaboratively with Sublime Merge for University of Oregon Data Science for the Environment course.
+# The 2024 Data Science for the Environment Cookbook
+
+## Contributing Authors
+
+- Rebecca Hayes, with an easy Polish recipe for haluski
+
