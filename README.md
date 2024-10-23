@@ -3,4 +3,5 @@
 ## Contributing Authors
 
 - Rebecca Hayes, with an easy Polish recipe for [Haluski](haluski.txt) 
+- Mia Hanson, chocolate chip cookie recipe for [Cookies](choc_chip_cookie.txt)
 
