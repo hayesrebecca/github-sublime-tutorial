@@ -2,5 +2,5 @@
 
 ## Contributing Authors
 
-- Rebecca Hayes, with an easy Polish recipe for haluski
+- Rebecca Hayes, with an easy Polish recipe for [Haluski](haluski.txt) 
 
