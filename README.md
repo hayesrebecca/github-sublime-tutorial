@@ -2,5 +2,5 @@
 
 ## Contributing Authors
 
-- Nicole Martinez, with an easy brownie recipe for [recipe](recipe.txt) 
+- Rebecca Hayes, with an easy Polish recipe for [Haluski](haluski.txt) 
 
