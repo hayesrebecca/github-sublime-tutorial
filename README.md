@@ -3,4 +3,9 @@
 ## Contributing Authors
 
 - Rebecca Hayes, with an easy Polish recipe for [Haluski](haluski.txt) 
+
 - Nicole Martinez, with an easy recipe for [Brownies](brownies.txt) 
+
+
+- Alejandro Santillana, with a recipe for [Flan](flan.txt)
+
