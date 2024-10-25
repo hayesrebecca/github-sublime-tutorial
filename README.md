@@ -4,3 +4,4 @@
 
 - Rebecca Hayes, with an easy Polish recipe for [Haluski](haluski.txt) 
 
+Kate Forsman, with a chocolate chip cookie recipe (cccrecipe.txt) 
