@@ -6,5 +6,12 @@
 - Sarah Weinstein, with a Crinkle Cookie recipe for [crinkle cookies](recipe.txt)
 
 - Nicole Martinez, with an easy recipe for [Brownies](brownies.txt) 
+
 - Alejandro Santillana, with a recipe for [Flan](flan.txt)
 -Vincent Cortes, with a Homemade Churros recipe [Churros](HomemadeChurros.txt)
+=======
+
+- Alejandro Santillana, with a recipe for [Flan](flan.txt)
+
+Kate Forsman, with a chocolate chip cookie recipe (cccrecipe.txt) 
+
