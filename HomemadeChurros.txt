@@ -1,0 +1,61 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2818
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 TimesNewRomanPS-BoldMT;\f1\froman\fcharset0 TimesNewRomanPSMT;\f2\fswiss\fcharset0 Helvetica;
+}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red38\green38\blue38;\red44\green44\blue44;
+\red15\green116\blue101;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c20000\c20000\c20000;\cssrgb\c19608\c19608\c19608;\cssrgb\c22745\c22745\c22745;
+\cssrgb\c0\c52157\c47059;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\b\fs24 \cf2 HOMEMADE CHURROS
+\f1\b0 \cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\b \cf3 Ingredients
+\f1\b0 \
+\cf4 \uc0\u8532  cup \cf5 all-purpose flour\cf4  (110 grams)\
+\'bc stick unsalted butter (28 grams)\
+1 cup water (250 ml)\
+salt , a pinch\
+2 teaspoons sugar\
+Calories: 26\cf6 \
+\cf4 1 egg\
+oil , for frying\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\b \cf3 Instructions
+\f1\b0 \
+\cf4 1. Place water, butter, sugar & a pinch of salt into a medium-size\
+saucepan. Bring to the boil.\
+2. Add the flour and mix vigorously until well blended (the dough\
+will come together in a minute or two).\
+3. Remove from the stove and let it cool a bit. Once it is not too\
+hot, add the egg and work the egg into the dough. Try to do it\
+as fast as possible. In the beginning, it might look like the\
+churro dough doesn\'92t wanna bind but take your time it will.\
+4. 5. Pour the oil into a large frying pan and heat it up.\
+Fill a piping bag fitted with a star piping tip with half of the\
+dough (it is easier to handle).\
+6. Check if the oil is ready for frying by dropping a tiny piece of\
+the dough in. Once the dough turns nice brown, you are ready\
+to pipe the churros in.\
+7. Pipe the dough directly into the hot oil (choose any length you\
+like) and cut with a fork (I found a fork the best tool for this).\
+Do not pipe too many churros in as they need space for frying.\
+It will take only about 2 minutes for them to get nice golden\
+color and that is a sign they are ready. They should get the\
+color gradually. If you see they are not getting dark evenly,\
+reduce the temperature.\
+8. Take them out and place them on a paper kitchen towel to get\
+rid of the excess oil.\
+9. 10. When they are still warm, roll each of them in sugar mixed\
+with ground cinnamon.\
+Serve warm with thick hot chocolate or chocolate pudding.\
+\
+URL:{\field{\*\fldinst{HYPERLINK "https://www.happyfoodstube.com/homemade-churros/"}}{\fldrslt https://www.happyfoodstube.com/homemade-churros/}}
+\f2\fs22 \
+}
