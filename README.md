@@ -9,4 +9,4 @@
 
 
 - Alejandro Santillana, with a recipe for [Flan](flan.txt)
-
+- Madi Kloberdanz, with a recipe for [chocolate cake](Death_by_chocolate_cake.txt)
