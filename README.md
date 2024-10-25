@@ -11,3 +11,5 @@
 
 - Alison Carmichael, with a recipe for [Cinnamon Rolls](Cinnamonrolls.txt)
 
+Kate Forsman, with a chocolate chip cookie recipe (cccrecipe.txt) 
+
