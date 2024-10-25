@@ -3,6 +3,9 @@
 ## Contributing Authors
 
 - Rebecca Hayes, with an easy Polish recipe for [Haluski](haluski.txt) 
+
+- Jared Schnider, [sugar cookie recipe](recipe.txt)
+=======
 - Sarah Weinstein, with a Crinkle Cookie recipe for [crinkle cookies](recipe.txt)
 
 - Nicole Martinez, with an easy recipe for [Brownies](brownies.txt) 
