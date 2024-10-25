@@ -3,4 +3,4 @@
 ## Contributing Authors
 
 - Rebecca Hayes, with an easy Polish recipe for [Haluski](haluski.txt) 
-
+- Jared Schnider, [sugar cookie recipe](recipe.txt)
