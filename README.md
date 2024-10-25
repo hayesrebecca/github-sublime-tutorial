@@ -20,5 +20,7 @@
 
 - Alison Carmichael, with a recipe for [Cinnamon Rolls](Cinnamonrolls.txt)
 
-Kate Forsman, with a chocolate chip cookie recipe (cccrecipe.txt) 
+Kate Forsman, with a chocolate chip cookie recipe (cccrecipe.txt)
+
+- Emmmie Sullivan, with a recipe for [Nestle chocolate chip cookies](nestle-tollhouse-cookies.txt)
 
