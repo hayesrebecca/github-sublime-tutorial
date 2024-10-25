@@ -9,3 +9,4 @@
 
 - Alejandro Santillana, with a recipe for [Flan](flan.txt)
 
+Kate Forsman, with a chocolate chip cookie recipe (cccrecipe.txt) 
