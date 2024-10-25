@@ -6,6 +6,5 @@
 
 - Nicole Martinez, with an easy recipe for [Brownies](brownies.txt) 
 
-
 - Alejandro Santillana, with a recipe for [Flan](flan.txt)
 
